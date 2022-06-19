@@ -19,12 +19,10 @@ export default function App() {
     <html lang="en">
       <head>
         <Meta />
-        <Links />
+        <title>Hello World</title>
       </head>
       <body>
         <Outlet />
-        <ScrollRestoration />
-        <Scripts />
         <LiveReload />
       </body>
     </html>
